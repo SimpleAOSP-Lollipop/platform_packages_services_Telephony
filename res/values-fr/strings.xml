@@ -523,4 +523,40 @@
     <string name="enable_video_calling_dialog_msg" msgid="6547569773866546434">"Pour pouvoir passer des appels vidéo, vous devez activer le mode LTE 4G avancé dans les paramètres système."</string>
     <string name="enable_video_calling_dialog_settings" msgid="576528473599603249">"Paramètres du réseau"</string>
     <string name="enable_video_calling_dialog_close" msgid="7411471282167927991">"Fermer"</string>
+    
+    <!-- Strings used in Settings->Sim cards for each installed Sim. -->
+    <string name="sim_label_emergency_calls">Appels d\'urgence</string>
+    <string name="sim_description_emergency_calls">Appels d\'urgence seulement</string>
+    <string name="sim_description_default">SIM card, slot: <xliff:g id="slot_id">%s</xliff:g></string>
+
+    <!-- Number lookup -->
+    <string name="number_lookup">Recherche un numéro de téléphone</string>
+    <string name="enable_forward_lookup_title">Recherche directe</string>
+    <string name="enable_forward_lookup_summary">Afficher les lieux à proximité lors de la recherche dans le composeur</string>
+    <string name="enable_people_lookup_title">Recherche de personne</string>
+    <string name="enable_people_lookup_summary">Voir les résultats en ligne pour les personnes lors de la recherche dans le composeur</string>
+    <string name="enable_reverse_lookup_title">Recherche inversée</string>
+    <string name="enable_reverse_lookup_summary">Rechercher des informations sur la personne ou le lieu pour les numéros inconnus sur les appels entrants</string>
+    <string name="choose_lookup_providers">Choisir le fournisseur de recherche</string>
+    <string name="choose_forward_lookup_provider_title">Choisir le fournisseur de recherche téléphone</string>
+    <string name="choose_people_lookup_provider_title">Choisir le fournisseur de recherche personne</string>
+    <string name="choose_reverse_lookup_provider_title">Choisir le fournisseur de recherche inversé</string>
+
+    <!-- Chinese Reverse Lookup Provider -->
+    <string name="cyngn_reverse_lookup_provider_package" translatable="false">com.cyngn.chineselocationlookup</string>
+    <string name="cyngn_reverse_lookup_provider_name">Cyngn Chinese (CN)</string>
+    <string name="cyngn_reverse_lookup_provider_value" translatable="false">CyngnChinese</string>
+
+    <!-- Advanced Settings -->
+    <string name="advanced_setting">Configuration avancée</string>
+
+    <!-- Blacklist preferences -->
+    <string name="blacklist_title">Liste noire</string>
+    <string name="blacklist_summary_disabled">Désactivée</string>
+    <string name="blacklist_summary">Les appels entrants provenant de numéros de téléphone dans la liste noire seront bloqués</string>
+
+    <!-- Blacklist notifications -->
+    <string name="blacklist_title">Liste noire</string>
+    <string name="blacklist_summary_disabled">Désactivée</string>
+    <string name="blacklist_summary">Les appels entrants provenant de numéros de téléphone dans la liste noire seront bloqués</string>
 </resources>
