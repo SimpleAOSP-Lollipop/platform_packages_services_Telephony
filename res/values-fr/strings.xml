@@ -559,4 +559,11 @@
     <string name="blacklist_title">Liste noire</string>
     <string name="blacklist_summary_disabled">Désactivée</string>
     <string name="blacklist_summary">Les appels entrants provenant de numéros de téléphone dans la liste noire seront bloqués</string>
+
+    <!-- Mobile network settings screen, setting check box name -->
+    <string name="national_roaming">Itinérance nationale des données</string>
+    <!-- Mobile network settings screen, setting summary text when check box is selected -->
+    <string name="national_roaming_enable">Se connecter aux services de données lors de l\'itinérance nationale</string>
+    <!-- Mobile network settings screen, setting summary text when check box is clear -->
+    <string name="national_roaming_disable">Ne pas se connecter aux services de données lors de l\'itinérance nationale</string>
 </resources>
