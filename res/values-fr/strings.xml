@@ -527,10 +527,10 @@
     <!-- Strings used in Settings->Sim cards for each installed Sim. -->
     <string name="sim_label_emergency_calls">Appels d\'urgence</string>
     <string name="sim_description_emergency_calls">Appels d\'urgence seulement</string>
-    <string name="sim_description_default">SIM card, slot: <xliff:g id="slot_id">%s</xliff:g></string>
+    <string name="sim_description_default">Carte SIM, emplacement: <xliff:g id="slot_id">%s</xliff:g></string>
 
     <!-- Number lookup -->
-    <string name="number_lookup">Recherche un numéro de téléphone</string>
+    <string name="number_lookup">Rechercher un numéro de téléphone</string>
     <string name="enable_forward_lookup_title">Recherche directe</string>
     <string name="enable_forward_lookup_summary">Afficher les lieux à proximité lors de la recherche dans le composeur</string>
     <string name="enable_people_lookup_title">Recherche de personne</string>
@@ -569,5 +569,5 @@
     
     <!-- Permission for notification-bar network toggle -->
     <string name="perm_change_mobile_network">changement du mode réseau (2G/3G)</string>
-    <string name="perm_change_mobile_network_desc">Permet à l\'application de changer à tout moment entre le réseau 2G et 3G. Le réseau 3G est plus rapide, mais il consomme plus de batterie et peut entraîner des frais supplémentaires.</string>
+    <string name="perm_change_mobile_network_desc">Permet à l\'application de basculer à tout moment entre le réseau 2G et 3G. Le réseau 3G est plus rapide, mais il consomme plus de batterie et peut entraîner des frais supplémentaires.</string>
 </resources>
