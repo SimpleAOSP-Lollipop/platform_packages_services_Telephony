@@ -523,4 +523,30 @@
     <string name="enable_video_calling_dialog_msg" msgid="6547569773866546434">"Para ativar a chamada de vídeo, você precisa habilitar o modo avançado 4G LTE nas configurações do sistema."</string>
     <string name="enable_video_calling_dialog_settings" msgid="576528473599603249">"Configurações de rede"</string>
     <string name="enable_video_calling_dialog_close" msgid="7411471282167927991">"Fechar"</string>
+
+     <!-- Strings used in Settings->Sim cards for each installed Sim. -->
+    <string name="sim_label_emergency_calls">Chamadas de emergência</string>
+    <string name="sim_description_emergency_calls">Somente chamadas de emergência</string>
+    <string name="sim_description_default">Cartão SIM, slot: <xliff:g id="slot_id">%s</xliff:g></string>
+    
+    <!-- Blacklist preferences -->
+    <string name="blacklist_title">Lista negra</string>
+    <string name="blacklist_summary_disabled">Desativado</string>
+    <string name="blacklist_summary">Chamadas recebidas de números de telefone na lista negra serão bloqueados</string>
+    
+    <!-- Blacklist notifications -->
+    <string name="blacklist_title">Lista negra</string>
+    <string name="blacklist_summary_disabled">Disabled</string>
+    <string name="blacklist_summary">Chamadas recebidas de números de telefone na lista negra serão bloqueados</string>
+    
+    <!-- Mobile network settings screen, setting check box name -->
+    <string name="national_roaming">Roaming de dados nacional</string>
+    <!-- Mobile network settings screen, setting summary text when check box is selected -->
+    <string name="national_roaming_enable">Conectar-se a serviços de dados em roaming nacional</string>
+    <!-- Mobile network settings screen, setting summary text when check box is clear -->
+    <string name="national_roaming_disable">Não ligar os serviços de dados em roaming nacional</string>
+    
+    <!-- Permission for notification-bar network toggle -->
+    <string name="perm_change_mobile_network">Mudar modo de rede (2G/3G)</string>
+    <string name="perm_change_mobile_network_desc">Permite que o aplicativo mude entre os dados 2G e 3G a qualquer momento. 3G é mais rápido, mas consome mais bateria e tem um custo maior.</string>
 </resources>
